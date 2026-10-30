@@ -7567,7 +7567,7 @@
   },
   "seb-graf/stablebar": {
     "stars": 16,
-    "pushed_at": "2026-10-30T18:36:10Z",
+    "pushed_at": "2026-10-30T18:45:08Z",
     "archived": false,
     "description": "A native, customizable menu bar for macOS, with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces. A free, open-source alternative to SketchyBar",
     "license": "MIT"
@@ -8018,7 +8018,7 @@
   },
   "stablyai/orca": {
     "stars": 110945,
-    "pushed_at": "2026-10-30T18:42:32Z",
+    "pushed_at": "2026-10-30T18:45:35Z",
     "archived": false,
     "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime",
     "license": "MIT"
@@ -8105,7 +8105,7 @@
   },
   "stirling-tools/stirling-pdf": {
     "stars": 95420,
-    "pushed_at": "2026-10-30T18:32:15Z",
+    "pushed_at": "2026-10-30T18:45:31Z",
     "archived": false,
     "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
     "cask": "stirling-pdf"
