@@ -481,7 +481,7 @@
     "license": "MPL-2.0"
   },
   "amicalhq/amical": {
-    "stars": 1578,
+    "stars": 1579,
     "pushed_at": "2026-10-27T22:47:51Z",
     "archived": false,
     "description": "🎙️ AI Dictation App - Open Source and Local-first ⚡ Type 3x faster, no keyboard needed. 🆓 Powered by open source models, works offline, fast and accurate",
@@ -553,7 +553,7 @@
   },
   "antonio-orionus/arroxy": {
     "stars": 808,
-    "pushed_at": "2026-10-30T18:35:20Z",
+    "pushed_at": "2026-10-30T18:41:49Z",
     "archived": false,
     "description": "Free open-source downloader for YouTube and 2000+ sites on Windows, macOS, and Linux. Up to 8K HDR 60fps, Dolby audio, MP3, Shorts, playlists, channels, subtitles, SponsorBlock, and just part of a video. Built-in browser: sign in to download private, members-only, and age-restricted videos. No ads. 50 languages",
     "license": "GPL-3.0"
@@ -1115,7 +1115,7 @@
     "description": "An open source code editor for the web, written in JavaScript, HTML and CSS"
   },
   "brave/brave-browser": {
-    "stars": 24042,
+    "stars": 24044,
     "pushed_at": "2026-10-30T16:04:11Z",
     "archived": false,
     "description": "Brave browser for Android, iOS, Linux, macOS, Windows",
@@ -1530,7 +1530,7 @@
     "description": "AI-powered cross-platform e-book reader with semantic search, RAG chat, local vector store, notes, TTS, and WebDAV sync"
   },
   "codeeditapp/codeedit": {
-    "stars": 23090,
+    "stars": 23091,
     "pushed_at": "2026-10-17T18:45:36Z",
     "archived": false,
     "description": "📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever",
@@ -2947,7 +2947,7 @@
   },
   "gitbutlerapp/gitbutler": {
     "stars": 21894,
-    "pushed_at": "2026-10-30T17:02:34Z",
+    "pushed_at": "2026-10-30T18:42:48Z",
     "archived": false,
     "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte"
   },
@@ -3326,7 +3326,7 @@
   },
   "homebrew/homebrew-cask": {
     "stars": 22274,
-    "pushed_at": "2026-10-30T18:38:52Z",
+    "pushed_at": "2026-10-30T18:43:20Z",
     "archived": false,
     "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
     "license": "BSD-2-Clause"
@@ -3495,7 +3495,7 @@
     "description": "Deezer Desktop app for Windows, Linux and macOS"
   },
   "imputnet/helium": {
-    "stars": 22200,
+    "stars": 22201,
     "pushed_at": "2026-10-30T12:32:18Z",
     "archived": false,
     "description": "Private, fast, and honest web browser",
@@ -4820,7 +4820,7 @@
     "license": "GPL-2.0"
   },
   "localsend/localsend": {
-    "stars": 96679,
+    "stars": 96680,
     "pushed_at": "2026-10-29T23:56:52Z",
     "archived": false,
     "description": "An open-source cross-platform alternative to AirDrop",
@@ -4976,7 +4976,7 @@
     "license": "MIT"
   },
   "lwouis/alt-tab-macos": {
-    "stars": 16456,
+    "stars": 16457,
     "pushed_at": "2026-10-23T21:57:12Z",
     "archived": false,
     "description": "Windows alt-tab on macOS",
@@ -5290,7 +5290,7 @@
   },
   "mattermost/mattermost": {
     "stars": 39472,
-    "pushed_at": "2026-10-30T18:34:08Z",
+    "pushed_at": "2026-10-30T18:43:31Z",
     "archived": false,
     "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle"
   },
@@ -5445,8 +5445,8 @@
     "license": "MIT"
   },
   "microsoft/vscode": {
-    "stars": 194376,
-    "pushed_at": "2026-10-30T18:40:13Z",
+    "stars": 194377,
+    "pushed_at": "2026-10-30T18:43:14Z",
     "archived": false,
     "description": "Visual Studio Code",
     "license": "MIT"
@@ -6596,7 +6596,7 @@
     "license": "GPL-2.0"
   },
   "pdcgomes/redlamp": {
-    "stars": 352,
+    "stars": 353,
     "pushed_at": "2026-10-30T16:38:28Z",
     "archived": false,
     "description": "A native, open-source RAW photo editor for Mac, iPad and iPhone that feels immediately familiar to Lightroom users",
@@ -6674,7 +6674,7 @@
     "license": "MIT"
   },
   "phalladar/macdirstat": {
-    "stars": 99,
+    "stars": 100,
     "pushed_at": "2026-10-11T12:14:25Z",
     "archived": false,
     "description": "Free, open-source disk space analyzer for macOS, inspired by WinDirStat. See what's taking up space on your Mac with an interactive treemap and track down large files. Native SwiftUI app for Apple silicon and Intel, signed and notarized, fully offline",
@@ -7260,7 +7260,7 @@
     "license": "MIT"
   },
   "ronitsingh10/finetune": {
-    "stars": 9940,
+    "stars": 9941,
     "pushed_at": "2026-07-09T07:54:56Z",
     "archived": false,
     "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource",
@@ -7268,7 +7268,7 @@
     "cask": "finetune"
   },
   "roversx/launchnext": {
-    "stars": 3143,
+    "stars": 3144,
     "pushed_at": "2026-10-19T04:32:59Z",
     "archived": false,
     "description": "Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free",
@@ -7402,7 +7402,7 @@
     "license": "MIT"
   },
   "saarthurr/atticus-mac": {
-    "stars": 469,
+    "stars": 470,
     "pushed_at": "2026-10-30T15:02:37Z",
     "archived": false,
     "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk",
@@ -8017,8 +8017,8 @@
     "license": "MIT"
   },
   "stablyai/orca": {
-    "stars": 110942,
-    "pushed_at": "2026-10-30T18:37:41Z",
+    "stars": 110945,
+    "pushed_at": "2026-10-30T18:42:32Z",
     "archived": false,
     "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime",
     "license": "MIT"
@@ -8813,7 +8813,7 @@
     "description": "Mac OS X Git GUI"
   },
   "ungoogled-software/ungoogled-chromium": {
-    "stars": 28145,
+    "stars": 28146,
     "pushed_at": "2026-10-30T14:19:41Z",
     "archived": false,
     "description": "Google Chromium, sans integration with Google",
@@ -9028,7 +9028,7 @@
     "license": "MIT"
   },
   "vorssaint/vorssaint-utils": {
-    "stars": 31203,
+    "stars": 31204,
     "pushed_at": "2026-10-30T02:38:26Z",
     "archived": false,
     "description": "Free and open-source macOS menu bar toolkit",
@@ -9050,7 +9050,7 @@
     "license": "MIT"
   },
   "vscodium/vscodium": {
-    "stars": 33882,
+    "stars": 33883,
     "pushed_at": "2026-10-30T02:01:58Z",
     "archived": false,
     "description": "binary releases of VS Code without MS branding/telemetry/licensing",
@@ -9511,7 +9511,7 @@
     "license": "GPL-3.0"
   },
   "ysalitrynskyi/stedding-browser": {
-    "stars": 119,
+    "stars": 118,
     "pushed_at": "2026-10-30T14:04:27Z",
     "archived": false,
     "description": "Open-source Arc-style browser built on Chromium: sidebar with vertical tabs, Spaces, folders, pinned tabs, a command bar, one-click import from Arc. macOS and Windows (Linux is coming soon). No telemetry",
@@ -9772,7 +9772,7 @@
   },
   "zzunkie/yardlet": {
     "stars": 27,
-    "pushed_at": "2026-10-30T18:36:07Z",
+    "pushed_at": "2026-10-30T18:44:12Z",
     "archived": false,
     "description": "A native macOS app for running coding agents: Codex, Claude Code and other agent CLIs side by side in one window",
     "license": "MIT"

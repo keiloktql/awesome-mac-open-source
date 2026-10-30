@@ -56,7 +56,7 @@ _Last refresh: 2026-10-30_
 - **[Pulse](https://github.com/qunqin24/Pulse)** — Native app that shows how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding services you have left, as rings docked at the edge of your screen. ⭐ 612 · 🕒 2026-10
 - **[mu](https://github.com/qybaihe/mu)** — Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for. ⭐ 563 · 🕒 2026-10
 - **[CoWork OS](https://github.com/CoWork-OS/CoWork-OS)** — Open-source desktop AI agent for files, browser, and chat-app tasks that works with your own API keys or local models. ⭐ 517 · 🕒 2026-10
-- **[Atticus](https://github.com/SaarthurR/atticus-mac)** — Open-source voice assistant that runs on your Claude plan, learns new tasks after doing them once, and handles dictation, screen help, and background agents. ⭐ 469 · 🕒 2026-10
+- **[Atticus](https://github.com/SaarthurR/atticus-mac)** — Open-source voice assistant that runs on your Claude plan, learns new tasks after doing them once, and handles dictation, screen help, and background agents. ⭐ 470 · 🕒 2026-10
 - **[ThinkWatch Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite)** — Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and redacts API keys before requests leave. ⭐ 414 · 🕒 2026-10
 - **[Usage4Claude](https://github.com/f-is-h/Usage4Claude)** — Real-time monitoring of Claude usage quotas across time windows and plans. ⭐ 412 · 🕒 2026-09
 - **[ClawdHome](https://github.com/ThinkInAIXYZ/clawdhome)** — Manage multiple isolated OpenClaw gateway instances from one control panel. ⭐ 310 · 🕒 2026-07
@@ -168,7 +168,7 @@ _Last refresh: 2026-10-30_
 - **[Safari MCP](https://github.com/achiya-automation/safari-mcp)** — Native Safari browser automation for AI agents on macOS, exposing 98 tools via AppleScript and JavaScript. ⭐ 227 · 🕒 2026-10
 - **[Sessions](https://github.com/AlexPerathoner/Sessions)** — Safari extension to save your working sessions. ⭐ 166 · 🕒 2025-09
 - **[seb-mac](https://github.com/SafeExamBrowser/seb-mac)** — Safe Exam Browser for macOS and iOS. ⭐ 144 · 🕒 2026-10 · 🍺 `brew install --cask safe-exam-browser`
-- **[Stedding](https://github.com/ysalitrynskyi/stedding-browser)** — Open-source Arc-style browser on Chromium with Spaces, vertical tabs, pinned folders, a command bar and Arc import. ⭐ 119 · 🕒 2026-10
+- **[Stedding](https://github.com/ysalitrynskyi/stedding-browser)** — Open-source Arc-style browser on Chromium with Spaces, vertical tabs, pinned folders, a command bar and Arc import. ⭐ 118 · 🕒 2026-10
 - **[Yalqen](https://github.com/YSamed/yalqen)** — Chromium-based developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking. ⭐ 33 · 🕒 2026-10
 - **[Lilo](https://github.com/Alexays/Lilo)** — Native WebKit browser with Arc-style spaces, Chrome extensions, terminal tabs in the sidebar, and a built-in MCP server for AI agents. ⭐ 29 · 🕒 2026-10
 - **[Vane](https://github.com/notnaki/vane)** — Native WebKit browser with sidebar tabs, Spaces, and Split View, in early development for macOS 26 or later. ⭐ 20 · 🕒 2026-10
@@ -286,7 +286,7 @@ _Last refresh: 2026-10-30_
 - **[System Color Picker](https://github.com/sindresorhus/System-Color-Picker)** — The macOS color picker as an app with more features. ⭐ 1.4k · 🕒 2025-07
 - **[Tropy](https://github.com/tropy/tropy)** — Research Photo Management. ⭐ 1.2k · 🕒 2026-10 · 🍺 `brew install --cask tropy`
 - **[Nugget](https://github.com/cartesiancs/cartcut)** — Video editing software designed for motion effects and versatility. ⭐ 820 · 🕒 2026-10
-- **[Redlamp](https://github.com/pdcgomes/redlamp)** — Native, open-source raw photo editor that keeps Lightroom Classic's Develop workflow. ⭐ 352 · 🕒 2026-10
+- **[Redlamp](https://github.com/pdcgomes/redlamp)** — Native, open-source raw photo editor that keeps Lightroom Classic's Develop workflow. ⭐ 353 · 🕒 2026-10
 - **[ItsPaint](https://github.com/joshlin2201/itspaint)** — Focused paint and screenshot markup app. Step badges, pixelate redaction, Instant Alpha. No account, no telemetry. ⭐ 71 · 🕒 2026-10
 - **[Siliconed](https://github.com/gwenn-ha-dev/Siliconed)** — Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs. ⭐ 14 · 🕒 2026-10
 - **[CrossGen](https://github.com/Bliveren/CrossGen)** — Local-first AI image workspace for generating, editing, organizing, and reusing images through a desktop app, JSON CLI, and MCP-compatible agents. ⭐ 13 · 🕒 2026-10
@@ -988,7 +988,7 @@ _Last refresh: 2026-10-30_
 - **[MaCursor](https://github.com/writronic/MaCursor)** — Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import. ⭐ 166 · 🕒 2026-10
 - **[everythingByMdfind](https://github.com/appledragon/everythingByMdfind)** — Fast file search using Spotlight. ⭐ 148 · 🕒 2026-08
 - **[MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner)** — Free, open-source macOS cleaner with disk analyzer, app uninstaller, and smart cleanup. ⭐ 127 · 🕒 2026-10
-- **[MacDirStat](https://github.com/phalladar/MacDirStat)** — Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. ⭐ 99 · 🕒 2026-10 · 🍺 `brew install --cask macdirstat`
+- **[MacDirStat](https://github.com/phalladar/MacDirStat)** — Open-source disk space analyzer that shows what's taking up space as an interactive treemap, inspired by WinDirStat. ⭐ 100 · 🕒 2026-10 · 🍺 `brew install --cask macdirstat`
 - **[ExtendFS](https://github.com/kthchew/ExtendFS)** — Read-only access to Linux ext2/3/4 in macOS Sequoia and later without a kernel extension. ⭐ 93 · 🕒 2026-09
 - **[Aman Check](https://github.com/MidZai/aman_check)** — Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests. ⭐ 67 · 🕒 2026-10
 - **[OpenClean](https://github.com/leoAnimesh/OpenClean)** — Free Mac cleaner that explains each item, quarantines what it removes for undo, and includes an app uninstaller, disk map and menu bar monitor. ⭐ 39 · 🕒 2026-10
