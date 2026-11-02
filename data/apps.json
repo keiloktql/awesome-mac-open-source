@@ -114,6 +114,12 @@
     "description": "A terminal Markdown writing app with a local encrypted vault, automatic saving, and named versions"
   },
   {
+    "name": "Swamp Converter",
+    "repo": "aansonsa/swamp-converter",
+    "category": "menubar",
+    "description": "Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs"
+  },
+  {
     "name": "Screentendo",
     "repo": "AaronRandall/Screentendo",
     "category": "games",
@@ -396,6 +402,12 @@
     "description": "Keyboard-driven navigation that labels every clickable element so you can click, scroll and search any app without the mouse"
   },
   {
+    "name": "Netty",
+    "repo": "alvaldes/netty",
+    "category": "menubar",
+    "description": "Open-source menu bar dot that shows whether the internet really answers, with latency, jitter, packet loss and speed tests"
+  },
+  {
     "name": "Airpass",
     "repo": "alvesjtiago/airpass",
     "category": "menubar",
@@ -528,6 +540,12 @@
     "description": "Transfer signed-in sessions between local Chromium browsers and ChatGPT Codex on macOS"
   },
   {
+    "name": "Coincide",
+    "repo": "apoorvdarshan/coincide",
+    "category": "editors",
+    "description": "Open-source native workspace for coding agents (Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity), where one thread can switch agents mid-conversation"
+  },
+  {
     "name": "TetherShot",
     "repo": "apoorvdarshan/TetherShot",
     "category": "menubar",
@@ -640,6 +658,12 @@
     "repo": "artginzburg/MiddleClick",
     "category": "browsers",
     "description": "Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse"
+  },
+  {
+    "name": "Mac TV",
+    "repo": "Arunprakaash/mac-tv",
+    "category": "video",
+    "description": "Open-source Apple TV-style home screen for streaming apps, with a phone remote and a local movie player"
   },
   {
     "name": "Perch",
@@ -1384,6 +1408,12 @@
     "repo": "cordwainersmith/horita",
     "category": "menubar",
     "description": "Menu bar app that counts down to your next meeting and joins Zoom, Meet and Teams calls in one click"
+  },
+  {
+    "name": "Corral",
+    "repo": "corral-dev/corral-apple",
+    "category": "ai",
+    "description": "Native macOS and iPhone client to follow and reply to Claude Code, Codex, OpenCode, and Cursor sessions with split panes"
   },
   {
     "name": "MacNTop",
@@ -2242,6 +2272,12 @@
     "repo": "flameshot-org/flameshot",
     "category": "images",
     "description": "Powerful yet simple to use screenshot software"
+  },
+  {
+    "name": "Flickbar",
+    "repo": "flickbar/flickbar",
+    "category": "windows",
+    "description": "Open-source window manager driven by trackpad gestures on window title bars"
   },
   {
     "name": "FlowPeek",
@@ -3156,6 +3192,18 @@
     "description": "Pomodoro Technique Timer for macOS with Touch Bar support"
   },
   {
+    "name": "LumaView",
+    "repo": "ixiehao/LumaView",
+    "category": "design",
+    "description": "Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs"
+  },
+  {
+    "name": "ShotMap",
+    "repo": "ixiehao/ShotMap",
+    "category": "video",
+    "description": "Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export"
+  },
+  {
     "name": "Cocoa-Way",
     "repo": "J-x-Z/cocoa-way",
     "category": "virtualization",
@@ -3184,6 +3232,12 @@
     "repo": "jakeantelis/Matcha",
     "category": "system",
     "description": "Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents"
+  },
+  {
+    "name": "Tarn",
+    "repo": "jakeantelis/Tarn",
+    "category": "menubar",
+    "description": "A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds"
   },
   {
     "name": "TableTool",
@@ -3748,6 +3802,12 @@
     "repo": "keycastr/keycastr",
     "category": "keyboard",
     "description": "Keystroke visualizer"
+  },
+  {
+    "name": "Burrow",
+    "repo": "khan-umirzakoff/Mole-GUI",
+    "category": "system",
+    "description": "Free, open-source native app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and watch system health, all through Mole's safety checks"
   },
   {
     "name": "Strategr",
@@ -5010,6 +5070,12 @@
     "description": "Cast macOS and Linux Audio/Video to your Google Cast and Sonos Devices"
   },
   {
+    "name": "Shutterbar",
+    "repo": "mucahitimre/Shutterbar",
+    "category": "images",
+    "description": "ShareX-style screenshots with ⌘C-to-clipboard, after-capture tasks, last-region recapture and scrolling capture"
+  },
+  {
     "name": "muCommander",
     "repo": "mucommander/mucommander",
     "category": "files",
@@ -5068,6 +5134,18 @@
     "repo": "nbolar/PlayStatus",
     "category": "menubar",
     "description": "PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar"
+  },
+  {
+    "name": "NeatEditor",
+    "repo": "NeatMacApps/NeatEditor",
+    "category": "editors",
+    "description": "Fast, native macOS plain-text editor for distraction-free writing"
+  },
+  {
+    "name": "NeatPaste",
+    "repo": "NeatMacApps/NeatPaste",
+    "category": "productivity",
+    "description": "Clean, lightweight native clipboard manager for macOS"
   },
   {
     "name": "SwiftMTP",
@@ -5308,6 +5386,18 @@
     "repo": "nsriram/KubeSwitch",
     "category": "developer",
     "description": "KubeSwitch lists the available kubernetes cluster contexts on the mac, in Mac's Menu bar"
+  },
+  {
+    "name": "Glass",
+    "repo": "Ntarasiuk/glass",
+    "category": "network",
+    "description": "Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device"
+  },
+  {
+    "name": "NTFSTool",
+    "repo": "ntfstool/ntfstool",
+    "category": "system",
+    "description": "Free, open-source NTFS read and write for Mac, with no kernel extension"
   },
   {
     "name": "Nuclear",
@@ -5656,6 +5746,12 @@
     "repo": "Paxa/postbird",
     "category": "databases",
     "description": "PostgreSQL GUI client for macOS"
+  },
+  {
+    "name": "ShinyMac",
+    "repo": "pballada/shinyMac",
+    "category": "system",
+    "description": "Open-source SwiftUI Mac cleaner with one-scan Smart Care, an app uninstaller that finds leftovers, Xcode cleanup, a Space Lens disk map and hidden settings"
   },
   {
     "name": "QOwnNotes",
@@ -6408,6 +6504,12 @@
     "description": "SoundCloud for macOS and Windows"
   },
   {
+    "name": "SpawnSweep",
+    "repo": "samirmaikap/spawnsweep",
+    "category": "developer",
+    "description": "Menu bar app that shows the dev servers, simulators and build data AI coding agents leave running, and cleans up with a preview first"
+  },
+  {
     "name": "Buffer",
     "repo": "samirpatil2000/Buffer",
     "category": "productivity",
@@ -6990,6 +7092,12 @@
     "description": "Native Mac app wrapper for WhatsApp Web"
   },
   {
+    "name": "Wavefunction",
+    "repo": "stoyan-stoyanov/wavefunction",
+    "category": "editors",
+    "description": "Open-source desktop coding agent that runs parallel chats on local models, your own API keys, or a ChatGPT sign-in"
+  },
+  {
     "name": "Notesnook",
     "repo": "streetwriters/notesnook",
     "category": "notes",
@@ -7186,6 +7294,12 @@
     "repo": "teconomix/local-transcriber",
     "category": "menubar",
     "description": "Menu bar app that records meetings and calls and transcribes them locally with Whisper and pyannote speaker recognition, with dictation into any app"
+  },
+  {
+    "name": "jdsp4mac",
+    "repo": "Tekkiech/jdsp4mac",
+    "category": "audio",
+    "description": "Menu bar app that runs JamesDSP audio effects, including EQ, AutoEQ, convolver, crossfeed and ViPER-DDC, on all system audio"
   },
   {
     "name": "Telegram Desktop",
@@ -7986,6 +8100,18 @@
     "description": "Move apps to external storage while keeping working launch links in `/Applications`"
   },
   {
+    "name": "HandySwitch",
+    "repo": "x0c/HandySwitch",
+    "category": "menubar",
+    "description": "Lightweight menu bar toggles for dark mode, prevent sleep, and scroll direction"
+  },
+  {
+    "name": "MacResourceMonitor",
+    "repo": "x0c/MacResourceMonitor",
+    "category": "menubar",
+    "description": "Menu bar CPU monitor to see which process is eating CPU and terminate it directly"
+  },
+  {
     "name": "Kodi",
     "repo": "xbmc/xbmc",
     "category": "video",
@@ -8272,6 +8398,12 @@
     "repo": "zed-industries/zed",
     "category": "editors",
     "description": "Zed is an open source, high-performance, and multiplayer code editor"
+  },
+  {
+    "name": "Hertzwise",
+    "repo": "zeetabit/Hertzwise",
+    "category": "video",
+    "description": "Menu bar app that switches the DAC's sample rate to match each Apple Music or Tidal track, so lossless plays bit-perfect, with a per-device AutoEq headphone EQ"
   },
   {
     "name": "Zen",
