@@ -96,6 +96,12 @@
     "description": "Xcode Source Editor Extension for 'Then'"
   },
   {
+    "name": "Cue",
+    "repo": "8starlabs/cue",
+    "category": "terminal",
+    "description": "Open-source macOS app that adds IDE-style command, option, branch and file completion to zsh in Apple Terminal and VS Code's integrated terminal"
+  },
+  {
     "name": "Bolo",
     "repo": "a692570/bolo",
     "category": "menubar",
