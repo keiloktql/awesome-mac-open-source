@@ -66,6 +66,12 @@
     "description": "Hosts file manager for macOS"
   },
   {
+    "name": "TinyRecorder",
+    "repo": "33to9/TinyRecorder",
+    "category": "video",
+    "description": "Lightweight screen recorder for screens, windows, apps, system audio and a connected iPhone or iPad; a maintained fork of QuickRecorder"
+  },
+  {
     "name": "Bitwarden Menu",
     "repo": "3j14/bitwarden-menubar",
     "category": "utilities",
@@ -280,6 +286,12 @@
     "repo": "Alexays/Lilo",
     "category": "browsers",
     "description": "Native WebKit browser with Arc-style spaces, Chrome extensions, terminal tabs in the sidebar, and a built-in MCP server for AI agents"
+  },
+  {
+    "name": "Carbon",
+    "repo": "AlexDemzz/carbon",
+    "category": "audio",
+    "description": "Menu bar app that transcribes meetings on device and saves each one as a Markdown file, with no bot and no cloud"
   },
   {
     "name": "WandelBar",
@@ -634,6 +646,12 @@
     "repo": "ariso-ai/oats",
     "category": "menubar",
     "description": "Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode"
+  },
+  {
+    "name": "LogoLight",
+    "repo": "Ark0N/LogoLight",
+    "category": "menubar",
+    "description": "Menu bar app that turns off, dims, or animates the illuminated Apple logo on the MacBook Pro with PROLED XDR Display"
   },
   {
     "name": "MD QuickLook",
@@ -1056,6 +1074,12 @@
     "description": "Native macOS companion for Claude Code with per-project ASCII familiars, nim token economy, and cross-session watcher. Built with Tauri v2"
   },
   {
+    "name": "OS-intent",
+    "repo": "Bubble-invest/os-intent",
+    "category": "productivity",
+    "description": "Learns how you work and puts your likely next action one key away, with every outward action behind a confirm panel"
+  },
+  {
     "name": "tmpNote",
     "repo": "buddax2/tmpNote",
     "category": "notes",
@@ -1150,6 +1174,12 @@
     "repo": "camguillory/Audio-Priority-Bar",
     "category": "menubar",
     "description": "Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone"
+  },
+  {
+    "name": "Graphis",
+    "repo": "Campfire7/graphis",
+    "category": "design",
+    "description": "Open-source app that generates images from text with the MOSS-Image model, locally on Apple silicon"
   },
   {
     "name": "Sonar",
@@ -1260,6 +1290,12 @@
     "description": "Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper"
   },
   {
+    "name": "Drifting",
+    "repo": "chihumyum/Drifting",
+    "category": "writing",
+    "description": "Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project"
+  },
+  {
     "name": "Chime",
     "repo": "ChimeHQ/Chime",
     "category": "editors",
@@ -1276,6 +1312,12 @@
     "repo": "chocoford/ExcalidrawZ",
     "category": "design",
     "description": "Open-source native Excalidraw client with local file management and iCloud sync"
+  },
+  {
+    "name": "Saywing",
+    "repo": "ChrBoebel/saywing",
+    "category": "writing",
+    "description": "Open-source tool that reads selected screen regions aloud using local OCR and neural speech, with offline English and German dictation"
   },
   {
     "name": "Crunch",
@@ -1360,12 +1402,6 @@
     "repo": "codeforreal1/compressO",
     "category": "design",
     "description": "Open-source tool for compressing videos and images to smaller sizes"
-  },
-  {
-    "name": "Godmode Bot",
-    "repo": "codextde/godmode-bot",
-    "category": "ai",
-    "description": "Open-source AI coworker that turns your Claude subscription into persistent agents that do computer work in their own browser with your logins"
   },
   {
     "name": "NoteGen",
@@ -1531,7 +1567,7 @@
   },
   {
     "name": "Photo Review",
-    "repo": "danielyaa5/photo-review",
+    "repo": "danielyaa5/cloud-media-shrinker",
     "category": "system",
     "description": "Open-source tool that lists an iCloud Photos library by size, then compresses large videos or deletes what you pick"
   },
@@ -1638,6 +1674,12 @@
     "description": "Lyrics for iTunes, Spotify and Vox"
   },
   {
+    "name": "Nimbus",
+    "repo": "Dearonski/Nimbus",
+    "category": "video",
+    "description": "Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and a full-screen vinyl player"
+  },
+  {
     "name": "KeyStats",
     "repo": "debugtheworldbot/keyStats",
     "category": "menubar",
@@ -1708,6 +1750,12 @@
     "repo": "dhennessy/OpenCashew",
     "category": "git",
     "description": "Cashew macOS Github Issue Tracker"
+  },
+  {
+    "name": "GitOS",
+    "repo": "Dhunu/gitOS",
+    "category": "git",
+    "description": "Git client that automatically picks the right GitHub account for every repository"
   },
   {
     "name": "Crisp",
@@ -1816,6 +1864,12 @@
     "repo": "DreamOfXM/diskwise",
     "category": "system",
     "description": "Disk cleaner that moves everything it removes to the Trash and keeps it undoable, covering app caches, node_modules, Xcode DerivedData and Docker usage"
+  },
+  {
+    "name": "Ferrocast",
+    "repo": "drumst0ck/ferrocast",
+    "category": "productivity",
+    "description": "Fast keyboard launcher written in Rust, with clipboard history, snippets, window management and 275 local file conversions"
   },
   {
     "name": "LocalRadio",
@@ -2065,7 +2119,7 @@
   },
   {
     "name": "AI Novel Writer",
-    "repo": "EthanYoQ/AI-Novel-Writer",
+    "repo": "EthanYoQ/Pagekin",
     "category": "writing",
     "description": "Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project"
   },
@@ -2128,6 +2182,12 @@
     "repo": "f/textream",
     "category": "productivity",
     "description": "Free teleprompter with real-time word tracking and voice-activated scrolling"
+  },
+  {
+    "name": "SSHTermaq",
+    "repo": "f1resh/sshtermaq",
+    "category": "terminal",
+    "description": "PuTTY-compatible SSH, Telnet and serial terminal with tabs, split panes, an SFTP/SCP file manager and one-click PuTTY session import"
   },
   {
     "name": "TouchGrassBar",
@@ -2538,6 +2598,12 @@
     "description": "Fast GPU-accelerated terminal emulator"
   },
   {
+    "name": "Murmury",
+    "repo": "GianlucaBave/murmury",
+    "category": "ai",
+    "description": "Floating window that answers questions from your own documents during video calls, hidden from screen sharing, with on-device speech recognition"
+  },
+  {
     "name": "Caption",
     "repo": "gielcobben/caption",
     "category": "video",
@@ -2922,6 +2988,18 @@
     "description": "Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass"
   },
   {
+    "name": "Cue",
+    "repo": "hridaya423/cue",
+    "category": "productivity",
+    "description": "Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number"
+  },
+  {
+    "name": "Quill",
+    "repo": "hridaya423/quill",
+    "category": "writing",
+    "description": "Markdown editor where Claude Code, Codex or Cursor edits your draft in place, and you keep or revert each change"
+  },
+  {
     "name": "sbtfix",
     "repo": "htsecurity/sbtfix",
     "category": "menubar",
@@ -3198,6 +3276,12 @@
     "description": "Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs"
   },
   {
+    "name": "MP4Flow",
+    "repo": "ixiehao/MP4Flow",
+    "category": "video",
+    "description": "Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging"
+  },
+  {
     "name": "ShotMap",
     "repo": "ixiehao/ShotMap",
     "category": "video",
@@ -3226,6 +3310,12 @@
     "repo": "JadenGeller/Helium",
     "category": "browsers",
     "description": "Floating browser window for macOS"
+  },
+  {
+    "name": "NVBeacon",
+    "repo": "jaein4722/NVBeacon",
+    "category": "menubar",
+    "description": "Open-source menu bar app for monitoring remote NVIDIA GPU servers over SSH"
   },
   {
     "name": "Matcha",
@@ -3364,6 +3454,12 @@
     "repo": "jettsba/SoundCloud-for-macOS",
     "category": "video",
     "description": "Unofficial lightweight SoundCloud app for macOS"
+  },
+  {
+    "name": "mirroir-mcp",
+    "repo": "jfarcand/mirroir-mcp",
+    "category": "developer",
+    "description": "Open-source MCP server and CLI that lets AI agents see, tap, swipe and type on a real iPhone through iPhone Mirroring, without Developer Mode or Xcode"
   },
   {
     "name": "Draw.io",
@@ -3558,12 +3654,6 @@
     "description": "The easiest way to get started with Redis on the Mac"
   },
   {
-    "name": "MenuBarMijia",
-    "repo": "jryang1997/MenuBarMijia",
-    "category": "menubar",
-    "description": "Control Xiaomi Mi Home devices from the menu bar by voice or keyboard, via Mi Cloud QR login or Home Assistant (macOS 26+)"
-  },
-  {
     "name": "BetterCapture",
     "repo": "jsattler/BetterCapture",
     "category": "video",
@@ -3610,24 +3700,6 @@
     "repo": "justinfrankel/licecap",
     "category": "video",
     "description": "Screen recorder that exports directly to GIF"
-  },
-  {
-    "name": "Content Factory",
-    "repo": "jutsuhq/content-factory",
-    "category": "video",
-    "description": "Faceless video generator for TikTok, YouTube Shorts and Reels: a script becomes a vertical video with AI frames, voiceover and subtitles"
-  },
-  {
-    "name": "Jutsu Studio",
-    "repo": "jutsuhq/jutsu-studio",
-    "category": "video",
-    "description": "Unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk"
-  },
-  {
-    "name": "Swapjutsu",
-    "repo": "jutsuhq/swapjutsu-seedance-character-swap",
-    "category": "video",
-    "description": "Character swap for videos with Seedance 2.5 or Wan 2.2 Animate, with on-device preparation on Apple silicon"
   },
   {
     "name": "HoRNDIS",
@@ -3892,6 +3964,12 @@
     "repo": "kornelski/ImageAlpha",
     "category": "images",
     "description": "Mac GUI for pngquant, pngnq and posterizer"
+  },
+  {
+    "name": "Koru",
+    "repo": "koruworks/mono",
+    "category": "notes",
+    "description": "Offline-first, open-source workspace for notes and docs with end-to-end encrypted device-to-device sync, built in Rust"
   },
   {
     "name": "FnKeyboard",
@@ -4434,6 +4512,12 @@
     "description": "Open-source local transcription and subtitle editor for microphones, media files, and Mac audio"
   },
   {
+    "name": "Knovum",
+    "repo": "madebyzan/knovum",
+    "category": "notes",
+    "description": "Local-first 2D spatial AI knowledge space with embedded LanceDB vector search, infinite canvas, and on-device Whisper transcription"
+  },
+  {
     "name": "Datamosh",
     "repo": "maelswarm/Datamosh",
     "category": "video",
@@ -4480,6 +4564,12 @@
     "repo": "Mannafee/zielzeit-scalable-capital",
     "category": "menubar",
     "description": "Menu bar app projecting the year your Scalable Capital portfolio reaches a savings goal, read-only through the official broker CLI"
+  },
+  {
+    "name": "NØTH",
+    "repo": "manugowda19/noth",
+    "category": "menubar",
+    "description": "Turns the MacBook notch into live activities and a command center for music, files, clipboard, calendar, notes and tools"
   },
   {
     "name": "Tempo",
@@ -4642,12 +4732,6 @@
     "repo": "maxmilian/markout",
     "category": "writing",
     "description": "Native Markdown editor with live preview, offline KaTeX math, Mermaid diagrams, and HTML/PDF export"
-  },
-  {
-    "name": "mxMarkEdit",
-    "repo": "maxnd/mxMarkEdit",
-    "category": "writing",
-    "description": "A visual editor of Markdown document, tasks and tables"
   },
   {
     "name": "crterm",
@@ -5676,6 +5760,12 @@
     "description": "Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media"
   },
   {
+    "name": "Vortex",
+    "repo": "OrtexIsArtem/vortex",
+    "category": "menubar",
+    "description": "MacBook notch app with a focus timer, clipboard history, a file shelf that catches new builds, screen-to-task capture with OCR, and keys Claude Code can use without seeing them"
+  },
+  {
     "name": "Plonk",
     "repo": "ostapondo/Plonk",
     "category": "windows",
@@ -5952,6 +6042,12 @@
     "description": "The easiest way to get started with PostgreSQL on the Mac"
   },
   {
+    "name": "LumaRing",
+    "repo": "potatoQi/LumaRing",
+    "category": "windows",
+    "description": "Radial menu for switching apps, windows, and browser tabs"
+  },
+  {
     "name": "PowerShell",
     "repo": "PowerShell/PowerShell",
     "category": "utilities",
@@ -6004,6 +6100,12 @@
     "repo": "ProfileCreator/ProfileCreator",
     "category": "system",
     "description": "macOS Application to create standard or customized configuration profiles"
+  },
+  {
+    "name": "Buddy",
+    "repo": "projects-hacks/buddy",
+    "category": "utilities",
+    "description": "Study helper in the notch that explains what is on your screen out loud while drawing on it"
   },
   {
     "name": "500-mac-wallpaper",
@@ -6246,6 +6348,12 @@
     "description": "Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs"
   },
   {
+    "name": "Show Bar",
+    "repo": "rept0rix/show-bar",
+    "category": "windows",
+    "description": "Windows-style Command-Tab window switcher with live thumbnails, Dock hover window previews, window snapping, clipboard history, and a screenshot shelf"
+  },
+  {
     "name": "Requestly",
     "repo": "requestly/requestly",
     "category": "developer",
@@ -6288,6 +6396,12 @@
     "description": "Equinox is an application that allows you to create macOS dynamic wallpapers"
   },
   {
+    "name": "Roar",
+    "repo": "roarbrowser/roar",
+    "category": "browsers",
+    "description": "Open-source agentic browser that uses local or bring-your-own AI models to navigate, read and fill the web for you"
+  },
+  {
     "name": "Seashore",
     "repo": "robaho/seashore",
     "category": "images",
@@ -6328,6 +6442,12 @@
     "repo": "RoketrP/QuotaBar",
     "category": "menubar",
     "description": "Local-first macOS menu bar app for tracking OpenAI Codex usage limits, reset countdowns, and optional alerts"
+  },
+  {
+    "name": "Polka",
+    "repo": "romabmstu/polka",
+    "category": "menubar",
+    "description": "Turns the MacBook notch into a control center for VPN connections, tab groups from any browser, now playing, calendar, an on-device translator and clipboard history"
   },
   {
     "name": "FineTune",
@@ -6900,6 +7020,12 @@
     "description": "Minimal, beautifully designed music player for macOS"
   },
   {
+    "name": "lmux",
+    "repo": "sooftware/lmux",
+    "category": "terminal",
+    "description": "Lightweight terminal built on libghostty for running Claude Code and Codex sessions, with agent status in the sidebar"
+  },
+  {
     "name": "Lockpaw",
     "repo": "sorkila/lockpaw",
     "category": "security",
@@ -7006,6 +7132,12 @@
     "repo": "stacks-archive/blockstack-browser",
     "category": "utilities",
     "description": "Blockstack is an internet for decentralized apps where users own their data. The Blockstack Browser allows you to explore the Blockstack internet"
+  },
+  {
+    "name": "AI Footprint",
+    "repo": "stanczykwyatt/ai-footprint",
+    "category": "menubar",
+    "description": "Read-only menu bar app that shows the disk space, background processes, MCP servers and login items AI coding tools leave on your Mac, with a receipt for every update"
   },
   {
     "name": "Copy 2FA",
@@ -7194,6 +7326,12 @@
     "description": "Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system"
   },
   {
+    "name": "Lowspeak",
+    "repo": "sventmueller/lowspeak",
+    "category": "keyboard",
+    "description": "Native, ultrafast AI dictation written in Rust: hold fn to talk into any app in 35 languages, free online with your own Groq key or offline with Whisper and Parakeet"
+  },
+  {
     "name": "Splat",
     "repo": "sventmueller/splat",
     "category": "writing",
@@ -7290,6 +7428,12 @@
     "description": "FIFA World Cup 2026 desktop widget with live scores, group standings, and the knockout bracket"
   },
   {
+    "name": "Tingo",
+    "repo": "tancheng33/tingo",
+    "category": "audio",
+    "description": "Open-source meeting notes app that records any call, transcribes it and tells speakers apart on device, and writes minutes whose every point links back to the original audio, using the LLM you choose"
+  },
+  {
     "name": "Local Transcriber",
     "repo": "teconomix/local-transcriber",
     "category": "menubar",
@@ -7372,6 +7516,12 @@
     "repo": "theDanButuc/Claude-Usage-Monitor",
     "category": "menubar",
     "description": "Native macOS menu bar app that tracks Claude.ai usage with colour-coded icons and reset timers"
+  },
+  {
+    "name": "Convoy",
+    "repo": "TheDynamicPunk/Convoy",
+    "category": "downloads",
+    "description": "Open-source download manager with segmented downloads, browser integration, and HLS and DASH stream support"
   },
   {
     "name": "Corectl App for macOS",
@@ -7746,12 +7896,6 @@
     "description": "Turn any short video into an animated GIF quickly and easily"
   },
   {
-    "name": "OS-intent",
-    "repo": "vdk888/os-intent",
-    "category": "productivity",
-    "description": "Learns how you work and puts your likely next action one key away, with every outward action behind a confirm panel"
-  },
-  {
     "name": "Image-As-Wallpaper",
     "repo": "ved62/Image-As-Wallpaper",
     "category": "wallpapers",
@@ -7848,6 +7992,12 @@
     "description": "Unofficial desktop app for ProtonMail and Tutanota end-to-end encrypted email providers"
   },
   {
+    "name": "Wavo",
+    "repo": "vladkens/wavo-app",
+    "category": "keyboard",
+    "description": "Dictation that doesn't slow your Mac down: it runs on the Neural Engine, keeps your voice off the cloud, and types what you say wherever you're typing"
+  },
+  {
     "name": "Qwen Scribe",
     "repo": "VladUZH/qwen-scribe",
     "category": "audio",
@@ -7894,6 +8044,18 @@
     "repo": "wandercn/fmusic",
     "category": "video",
     "description": "A fmusic is a open source music player on SwiftUI"
+  },
+  {
+    "name": "Breaker",
+    "repo": "wata/Breaker",
+    "category": "developer",
+    "description": "Watches the launchd jobs, cron jobs, Folder Actions, and SwiftBar plugins you set up yourself and notifies you when one breaks"
+  },
+  {
+    "name": "TimeMachineEjector",
+    "repo": "wata/TimeMachineEjector",
+    "category": "system",
+    "description": "Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due"
   },
   {
     "name": "Wave",
@@ -8052,6 +8214,12 @@
     "description": "Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming"
   },
   {
+    "name": "Sidekey",
+    "repo": "wongsiufool/sidekey",
+    "category": "keyboard",
+    "description": "Use your iPhone as a wireless keyboard, trackpad and voice input for your Mac or Windows PC over local Wi-Fi"
+  },
+  {
     "name": "RktMachine",
     "repo": "woofwoofinc/rktmachine",
     "category": "utilities",
@@ -8164,6 +8332,12 @@
     "repo": "Xiye88/NotchMuse",
     "category": "video",
     "description": "Open-source synced lyrics for Spotify, Apple Music, NetEase Cloud Music, QQ Music and Soda Music in the menu bar, beside the notch, or above the Dock"
+  },
+  {
+    "name": "Flipic",
+    "repo": "xmasdong/flipic",
+    "category": "design",
+    "description": "Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode"
   },
   {
     "name": "Xournal++",
@@ -8350,6 +8524,18 @@
     "repo": "yuuichieguchi/Calyx",
     "category": "terminal",
     "description": "Native macOS terminal for running and supervising coding agents in parallel"
+  },
+  {
+    "name": "camber",
+    "repo": "yuvrajangadsingh/camber",
+    "category": "browsers",
+    "description": "Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import"
+  },
+  {
+    "name": "Radif",
+    "repo": "yuvrajangadsingh/radif",
+    "category": "video",
+    "description": "Unofficial open-source YouTube Music client built with Tauri, with synced lyrics and a video mode, that needs YouTube Music Premium"
   },
   {
     "name": "YYLO CLI",
